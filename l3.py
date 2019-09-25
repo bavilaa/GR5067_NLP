@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+# just for giggles
 
 set_a = set(['blue', 'green', 'violet', 'red'])
 set_b = set(['green', 'yellow', 'blue', 'orange'])
